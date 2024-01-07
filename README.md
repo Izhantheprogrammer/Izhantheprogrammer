@@ -19,11 +19,6 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 </p>
 
-
-Certainly! To rearrange the icons in your GitHub README profile in the order you specified, you'll need to adjust the order of the HTML code for the icons. Here's the modified code with the icons arranged according to your specified order:
-
-html
-Copy code
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
